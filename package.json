@@ -13,5 +13,9 @@
     "@astrojs/sitemap": "^1.0.0",
     "@netlify/netlify-marketing-tokens": "^1.1.0",
     "astro": "^2.0.0"
+  },
+  "dependencies": {
+    "@netlify/auth0": "^0.1.2",
+    "@netlify/integrations": "^0.6.0"
   }
 }
